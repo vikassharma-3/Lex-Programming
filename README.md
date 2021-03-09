@@ -2,6 +2,6 @@
 
 To execute /compule the file:
 
-lex (filename)
-gcc lex.yy.cc
-./a.out
+lex (filename)  
+gcc lex.yy.cc  
+./a.out  
